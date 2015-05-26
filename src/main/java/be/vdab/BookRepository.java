@@ -1,4 +1,4 @@
-package be.vdab.blackbooks;
+package be.vdab;
 
 import java.util.List;
 

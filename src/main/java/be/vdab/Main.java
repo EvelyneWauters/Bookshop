@@ -1,4 +1,4 @@
-package be.vdab.blackbooks;
+package be.vdab;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
